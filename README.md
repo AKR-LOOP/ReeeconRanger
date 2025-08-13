@@ -32,9 +32,6 @@ Edit
 python3 reconranger.py <target> [--passive] [--active] [--output results.json]
 Examples:
 
-bash
-Copy
-Edit
 python3 reconranger.py example.com --passive
 python3 reconranger.py example.com --active
 python3 reconranger.py example.com --output scan.json
